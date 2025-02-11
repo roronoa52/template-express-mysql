@@ -26,12 +26,12 @@
     "@prisma/client": "^6.3.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "http-status-codes": "^2.3.0",
     "prisma": "^6.3.1",
     "winston": "^3.17.0"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
-    "@types/grpc__grpc-js": "^1.8.3",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.13.1",
     "@types/supertest": "^6.0.2",
